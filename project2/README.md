@@ -12,5 +12,5 @@ This project involves transitioning from an old model to a new model and utilizi
 
 ## Files
 
-- `getData.py` is the data processing file.
-- `runModel.py` is the model training and testing file.
+- Files that start with “getData” are the data processing files.
+- Files that start with “runModel” are the model training and testing files.
